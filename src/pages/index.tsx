@@ -1,5 +1,12 @@
+import React from 'react';
+import { Container } from '@material-ui/core';
+
 function HomePage() {
-    return <div>Welcome to Next.js!</div>
-  }
-  
-  export default HomePage
+    return (
+        <Container maxWidth='sm'>
+            <div>Test</div>
+        </Container>
+    );
+}
+
+export default HomePage;
