@@ -23,7 +23,7 @@ function HomePage() {
                     </Typography>
                     <Grid container alignItems='center' justifyContent='center'>
                         <Grid item>
-                            <img width='300' src='./old-syokunin.png' />
+                            <img width='300' src='./old-syokunin.png' alt='昔の菓子職人' />
                             <Typography variant='subtitle1'>これが当時のソフトウェアUI</Typography>
                         </Grid>
                     </Grid>
